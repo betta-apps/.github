@@ -1,2 +1,2 @@
 # .github
-The betta apps org profile
+Work Betta's org profile

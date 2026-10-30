@@ -5,7 +5,7 @@ text { font-family: 'Instrument Sans', system-ui, -apple-system, 'Segoe UI', san
 </style>
 <rect width="840" height="216" rx="4" fill="#1A1C21"/>
 <rect x="40" y="40" width="64" height="13.714285714285714" rx="2" fill="#F5F4F0"/><rect x="40" y="58.285714285714285" width="36.57142857142857" height="45.714285714285715" rx="2" fill="#2A5BC4"/><rect x="81.14285714285714" y="58.285714285714285" width="22.857142857142858" height="18.285714285714285" rx="2" fill="#F48A3A"/><rect x="81.14285714285714" y="81.14285714285714" width="22.857142857142858" height="22.857142857142858" rx="2" fill="#F2CB5C"/>
-<text x="124" y="86" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#EEECE6">Work Betta</text>
+<text x="124" y="86" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#EEECE6"><tspan font-weight="500" fill="#8EAEF2">work</tspan> betta</text>
 <text x="40" y="138" font-size="18" fill="#AEB1B9">Small apps and tools, each doing one job.</text>
 <text x="40" y="176" font-size="13" font-weight="600" fill="#8EAEF2">work.betta.io</text>
 </svg>
